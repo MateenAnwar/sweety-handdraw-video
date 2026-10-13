@@ -3,7 +3,7 @@
 安装一个 Skill，按主题或文章制作完整手绘讲解视频。
 
 - 使用入口：[SKILL.md](SKILL.md)
-- 项目说明、安装与样片：[GitHub README](https://github.com/threerocks/sweety-handdraw-video)
+- 项目说明、安装与样片：[GitHub README](https://github.com/MateenAnwar/sweety-handdraw-video)
 - 编写任务：[运行格式](references/runtime-contract.md)
 - 内置依赖和冲突处理：[依赖路由](references/dependencies.md)
 
